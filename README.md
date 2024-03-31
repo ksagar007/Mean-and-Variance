@@ -1,5 +1,5 @@
                                                                        Name: K Sagar Krishna
-                                                                      Reg no: 212222110037
+                                                                       Reg no: 212222110037
 
 #  Mean and variance of a discrete  distribution
 
